@@ -7,3 +7,11 @@
 6.“内存低效”：降低内存占用仅为30M左右，急速启动，关闭后后台无进程
 
 开发者：XLL小绿绿
+#Chaoguang High speed Browser
+1. "Compact and concise": Remove unnecessary redundancy and return to the original beauty. The installation package is short and concise, and after installation, it only occupies 55.3MB of hard drive
+2. "Dual Core Boost": Mainly using Google's latest Chromium119.0.0 kernel, supplemented by Microsoft's Edge, with HTML5 Test score of 420 and Baseline Web3.0
+3. "Open Source Global": Individual developers collaborate with Microsoft Github, fully open source, permanently free.
+4. "Privacy protection": No extra permissions, only access network permissions, access server permissions (user access), Bluetooth permissions, microphone permissions, network camera permissions, and location permissions are called, and other permissions are not authorized to be called. All data is saved locally and will not be uploaded to the cloud, maximizing privacy protection.
+5. "Smooth Interface": Adopting FluentUI, adding acrylic transparency style, perfectly fitting Windows 11, using the open-source Chinese Huawei self-developed system Harmony OS's Harmony OS Sans, far ahead
+6. "Memory inefficiency": reduces memory usage to only about 30M, quickly starts, and there are no processes in the background after shutdown
+Developer: XLL Little Green
